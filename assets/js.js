@@ -1,0 +1,1 @@
+alert("Hello! Selamat datang di NetFun");
