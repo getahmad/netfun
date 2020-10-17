@@ -152,6 +152,7 @@ article img {
     border-radius: 50%;
 }
 
+//responsive
 @media only screen and (max-width: 400px) {
     .card ul {
         grid-template-columns: auto;
