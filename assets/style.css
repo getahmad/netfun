@@ -58,7 +58,7 @@ footer {
 .jumbotron {
     font-size: 20px;
     padding: 150px;
-    background-image: url("./images/bg1.jpg");
+    background-image: url("images/bg1.jpg");
     height: 90vh;
     text-align: center;
     color: white;
