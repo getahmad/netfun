@@ -58,7 +58,7 @@ footer {
 .jumbotron {
     font-size: 20px;
     padding: 150px;
-    background-image: url(/assets/images/bg1.jpg);
+    background-image: url("./images/bg1.jpg");
     height: 90vh;
     text-align: center;
     color: white;
@@ -151,8 +151,9 @@ article img {
     height: 150px;
     border-radius: 50%;
 }
+/* 
+//responsive */
 
-//responsive
 @media only screen and (max-width: 400px) {
     .card ul {
         grid-template-columns: auto;
@@ -161,6 +162,9 @@ article img {
 }
 
 @media only screen and (max-width: 1000px) {
+  
+
+
     #theory img {
         width: 100px;
         height: 100px;

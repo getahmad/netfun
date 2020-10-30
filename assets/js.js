@@ -1,1 +1,1 @@
-alert("Hello! Selamat datang di NetFun");
+// alert("Hello! Selamat datang di NetFun");
